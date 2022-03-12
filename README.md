@@ -1,5 +1,5 @@
 # EAW-in-kappa-plasmas
-Studies of EAW in kappa plasmas
+Studies of the electron acoustic waves in kappa-distributed plasmas
 
 The codes are used to plot the figures in the following research paper. 
 
